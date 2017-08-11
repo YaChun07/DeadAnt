@@ -1,0 +1,5 @@
+D:\VisualStudioProject\HWDeadAnt\HWDeadAnt\bin\Debug\HWDeadAnt.dll
+D:\VisualStudioProject\HWDeadAnt\HWDeadAnt\bin\Debug\HWDeadAnt.pdb
+D:\VisualStudioProject\HWDeadAnt\HWDeadAnt\obj\Debug\HWDeadAnt.csprojResolveAssemblyReference.cache
+D:\VisualStudioProject\HWDeadAnt\HWDeadAnt\obj\Debug\HWDeadAnt.dll
+D:\VisualStudioProject\HWDeadAnt\HWDeadAnt\obj\Debug\HWDeadAnt.pdb
